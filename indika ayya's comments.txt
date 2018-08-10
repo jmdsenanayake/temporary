@@ -1,0 +1,16 @@
+Objective
+“Know the customer better”
+Approach the customer (existing and potential) in more personalized manner to deliver more value.
+Customized promotions, news, products and loyalty
+Approach
+True digital solution using Data Warehousing, Big data, web scowling, scraping, data analysis and data classification.
+Build an echo system to collect customer data from multiple sources (internet and web, internal data sources such as call center, core banking. etc.). Slice and dice customer data and apply various logics to understand the customer (social interests, goals, spending patterns, financial strengths etc. )
+R & D on more application logics and technology infrastructure
+Architecture
+<diagram> connect all the customer channels to elicitate customer data and provide personalized services
+Implementation plan
+Rolling wave planning,
+Sprint 1 – Automated lead generation using internet data
+Demo
+
+include in last Challengers 
