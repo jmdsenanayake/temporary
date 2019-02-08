@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ewin_api_banking>
+    <ewin_api_banking_header>
+        <user_verification>
+		    <ewin_transaction_type>03</ewin_transaction_type>
+            <ewin_customer_no>5190</ewin_customer_no>
+            <ewin_user_name>DASANAYAKE.NBL4W</ewin_user_name>
+            <ewin_password>AAbank11</ewin_password>			
+            <ewin_transaction_count>4</ewin_transaction_count>
+        </user_verification>
+    </ewin_api_banking_header>
+    <ewin_api_banking_body>
+        <ewin_api_banking_transactions_details>
+            <transaction>IFT2019020601;101000023931;106050045229;21/06/2018;1000;At the Rate of  113.0, Contract Number 0101, Murray @ NBL Treasury;;;</transaction>
+            <transaction>IFT2019020602;101000023931;106050045229;21/06/2018;1000;At the Rate of  113.0, Contract Number 0101, Murray @ NBL Treasury;;;</transaction>
+            <transaction>IFT2019020603;101000023931;106050045229;21/06/2018;1000;At the Rate of  113.0, Contract Number 0101, Murray @ NBL Treasury;;;</transaction>
+			<transaction>IFT2019020604;101000023931;106050045229;21/06/2018;1000;At the Rate of  113.0, Contract Number 0101, Murray @ NBL Treasury;;;</transaction>
+        </ewin_api_banking_transactions_details>
+    </ewin_api_banking_body>
+</ewin_api_banking>
