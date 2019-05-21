@@ -1,0 +1,32 @@
+allocation - cas 2 + cas 7 , annual - 7, annual 11, mandatory 10
+
+prorated - cas 2 + cas 3.5, annual - 7, annual 5.5, mandatory 5
+
+
+prorated adjusted - cas 2 (A), cas 3.5 (B), annual -7(C) , annual 0.5(D), mandatory 10(E)
+
+
+1_24 (T) - cas 1 - done home  (A)							remaning cas 1 (A), cas 3.5 (B), annual -7(C) , annual 0.5(D), mandatory 10(E)
+3_1(F) - ann 1 - done Interview (C)							remaning cas 1 (A), cas 3.5 (B), annual -6(C) , annual 0.5(D), mandatory 10(E)
+3_13(W) - cas 1  - done lec01 (A)							remaning cas 3.5 (B), annual -6(C) , annual 0.5(D), mandatory 10(E)
+3_18(M) - cas 1/2 - done lec02 (B)							remaning cas 3.0 (B), annual -6(C) , annual 0.5(D), mandatory 10(E)
+3_25(M) - cas 1/2 - done lec03 (B)							remaning cas 2.5 (B), annual -6(C) , annual 0.5(D), mandatory 10(E)
+4_1(M)	-Ma	- done lec04 (E)								remaning cas 2.5 (B), annual -6(C) , annual 0.5(D)
+4_22 (M) - Cas 1 - done situation(B)						remaning cas 1.5 (B), annual -6(C) , annual 0.5(D)
+4_29 (W) - Cas 1 - done situation(B)						remaning cas 0.5 (B), annual -6(C) , annual 0.5(D)
+5_6(M)	- ann 1 (wedding) (C)								remaning cas 0.5 (B), annual -5(C), annual 0.5(D)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5_27(M)	- ann 1/2 -  lec05 + supervising(D)					remaning cas 0.5 (B), annual -5(C)
+6_3(M)	- ann 1 -   lec06 & 07 (C)							remaning cas 0.5 (B), annual -4(C) 
+6_7 (F) - cas 1/2 - Interim Presentations					remaning annual -4(C) 
+6_10(M)	- ann 1 - lec08 & 09(C)								remaning annual -3(C)
+6_17(M)	- ann 1 - lec10 & 11 (C)							remaning annual -2(C)
+6_24(M) - ann 1/2  - lec 12 (C)								remaning annual -1.5(C)
+1_7(M)	- ann 1/2 -lec 13									remaning annual -1(C)
+8_7
+
+7_11(T) - ann 1  - Weddi (C)								remaning none	
+
+
